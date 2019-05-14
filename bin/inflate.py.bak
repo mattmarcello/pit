@@ -1,0 +1,15 @@
+import zlib
+from sys import argv
+
+script, filename = argv
+
+f = open(filename, 'rb')
+
+data = f.read()
+
+f.close()
+
+print zlib.decompress(data)
+
+
+

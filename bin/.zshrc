@@ -1,0 +1,1 @@
+PATH=/Users/mpm/src/gocode/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:.git/safe/../../bin:/Users/mpm/.rbenv/shims:/Users/mpm/.bin:/usr/local/sbin:/Users/mpm/src/building_git/bin
